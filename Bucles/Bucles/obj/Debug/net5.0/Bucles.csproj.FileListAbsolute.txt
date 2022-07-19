@@ -1,0 +1,16 @@
+F:\Programas\CursoC#\Bucles\Bucles\bin\Debug\net5.0\Bucles.exe
+F:\Programas\CursoC#\Bucles\Bucles\bin\Debug\net5.0\Bucles.deps.json
+F:\Programas\CursoC#\Bucles\Bucles\bin\Debug\net5.0\Bucles.runtimeconfig.json
+F:\Programas\CursoC#\Bucles\Bucles\bin\Debug\net5.0\Bucles.runtimeconfig.dev.json
+F:\Programas\CursoC#\Bucles\Bucles\bin\Debug\net5.0\Bucles.dll
+F:\Programas\CursoC#\Bucles\Bucles\bin\Debug\net5.0\ref\Bucles.dll
+F:\Programas\CursoC#\Bucles\Bucles\bin\Debug\net5.0\Bucles.pdb
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\Bucles.csproj.AssemblyReference.cache
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\Bucles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\Bucles.AssemblyInfoInputs.cache
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\Bucles.AssemblyInfo.cs
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\Bucles.csproj.CoreCompileInputs.cache
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\Bucles.dll
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\ref\Bucles.dll
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\Bucles.pdb
+F:\Programas\CursoC#\Bucles\Bucles\obj\Debug\net5.0\Bucles.genruntimeconfig.cache

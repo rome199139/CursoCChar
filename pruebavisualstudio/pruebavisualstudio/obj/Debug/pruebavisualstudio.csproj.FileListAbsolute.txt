@@ -1,0 +1,8 @@
+F:\Programas\CursoC#\pruebavisualstudio\pruebavisualstudio\obj\Debug\pruebavisualstudio.csprojAssemblyReference.cache
+F:\Programas\CursoC#\pruebavisualstudio\pruebavisualstudio\obj\Debug\pruebavisualstudio.csproj.CoreCompileInputs.cache
+F:\Programas\CursoC#\pruebavisualstudio\pruebavisualstudio\bin\Debug\pruebavisualstudio.exe.config
+F:\Programas\CursoC#\pruebavisualstudio\pruebavisualstudio\bin\Debug\pruebavisualstudio.exe
+F:\Programas\CursoC#\pruebavisualstudio\pruebavisualstudio\bin\Debug\pruebavisualstudio.pdb
+F:\Programas\CursoC#\pruebavisualstudio\pruebavisualstudio\obj\Debug\pruebavisualstudio.exe
+F:\Programas\CursoC#\pruebavisualstudio\pruebavisualstudio\obj\Debug\pruebavisualstudio.pdb
+F:\Programas\CursoC#\pruebavisualstudio\pruebavisualstudio\obj\Debug\pruebavisualstudio.csproj.AssemblyReference.cache

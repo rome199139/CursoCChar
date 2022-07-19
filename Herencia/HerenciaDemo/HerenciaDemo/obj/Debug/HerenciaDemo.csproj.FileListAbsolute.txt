@@ -1,0 +1,6 @@
+F:\Programas\CursoC#\Herencia\HerenciaDemo\HerenciaDemo\bin\Debug\HerenciaDemo.exe.config
+F:\Programas\CursoC#\Herencia\HerenciaDemo\HerenciaDemo\bin\Debug\HerenciaDemo.exe
+F:\Programas\CursoC#\Herencia\HerenciaDemo\HerenciaDemo\bin\Debug\HerenciaDemo.pdb
+F:\Programas\CursoC#\Herencia\HerenciaDemo\HerenciaDemo\obj\Debug\HerenciaDemo.csproj.CoreCompileInputs.cache
+F:\Programas\CursoC#\Herencia\HerenciaDemo\HerenciaDemo\obj\Debug\HerenciaDemo.exe
+F:\Programas\CursoC#\Herencia\HerenciaDemo\HerenciaDemo\obj\Debug\HerenciaDemo.pdb

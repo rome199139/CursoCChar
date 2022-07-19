@@ -1,0 +1,16 @@
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\InterfacesAbstractasDemo.csproj.AssemblyReference.cache
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\InterfacesAbstractasDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\InterfacesAbstractasDemo.AssemblyInfoInputs.cache
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\InterfacesAbstractasDemo.AssemblyInfo.cs
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\InterfacesAbstractasDemo.csproj.CoreCompileInputs.cache
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\bin\Debug\net5.0\InterfacesAbstractasDemo.exe
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\bin\Debug\net5.0\InterfacesAbstractasDemo.deps.json
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\bin\Debug\net5.0\InterfacesAbstractasDemo.runtimeconfig.json
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\bin\Debug\net5.0\InterfacesAbstractasDemo.runtimeconfig.dev.json
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\bin\Debug\net5.0\InterfacesAbstractasDemo.dll
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\bin\Debug\net5.0\ref\InterfacesAbstractasDemo.dll
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\bin\Debug\net5.0\InterfacesAbstractasDemo.pdb
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\InterfacesAbstractasDemo.dll
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\ref\InterfacesAbstractasDemo.dll
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\InterfacesAbstractasDemo.pdb
+F:\Programas\CursoC#\InterfacesAbstractas\InterfacesAbstractasDemo\InterfacesAbstractasDemo\obj\Debug\net5.0\InterfacesAbstractasDemo.genruntimeconfig.cache

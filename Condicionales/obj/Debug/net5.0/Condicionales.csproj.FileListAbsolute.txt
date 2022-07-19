@@ -1,0 +1,16 @@
+F:\Programas\CursoC#\Condicionales\bin\Debug\net5.0\Condicionales.exe
+F:\Programas\CursoC#\Condicionales\bin\Debug\net5.0\Condicionales.deps.json
+F:\Programas\CursoC#\Condicionales\bin\Debug\net5.0\Condicionales.runtimeconfig.json
+F:\Programas\CursoC#\Condicionales\bin\Debug\net5.0\Condicionales.runtimeconfig.dev.json
+F:\Programas\CursoC#\Condicionales\bin\Debug\net5.0\Condicionales.dll
+F:\Programas\CursoC#\Condicionales\bin\Debug\net5.0\ref\Condicionales.dll
+F:\Programas\CursoC#\Condicionales\bin\Debug\net5.0\Condicionales.pdb
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\Condicionales.csproj.AssemblyReference.cache
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\Condicionales.AssemblyInfoInputs.cache
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\Condicionales.AssemblyInfo.cs
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\Condicionales.csproj.CoreCompileInputs.cache
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\Condicionales.dll
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\ref\Condicionales.dll
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\Condicionales.pdb
+F:\Programas\CursoC#\Condicionales\obj\Debug\net5.0\Condicionales.genruntimeconfig.cache
